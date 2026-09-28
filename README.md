@@ -1,3 +1,3 @@
 # firstproject
-i am going to do a project
+i am going to do a project.
 author zeba
